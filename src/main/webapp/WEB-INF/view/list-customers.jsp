@@ -46,7 +46,7 @@
                     <c:param name="customerId" value="${tempCustomer.id}"/>
                 </c:url>
 
-                <c:url var="deleteLink" value="/customer/delete">
+                <c:url var="deleteLink" value="/customer/deleteCustomer">
                     <c:param name="customerId" value="${tempCustomer.id}"/>
                 </c:url>
 
