@@ -7,6 +7,11 @@
   <display-name>customer-relationship-manager</display-name>
   <absolute-ordering/>
 
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+
   <context-param>
     <param-name>contextConfigLocation</param-name>
     <param-value>/WEB-INF/spring-mvc-crud-demo-servlet.xml</param-value>
