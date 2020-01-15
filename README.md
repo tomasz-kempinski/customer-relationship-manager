@@ -10,7 +10,7 @@
 
 ![Customer-relationship-manager](./docs/add-customer.png) 
 
-> > Clicking the "__Save__" button adds the filled in data to the database. 
+> Clicking the "__Save__" button adds the filled in data to the database. 
 
 ![Customer-relationship-manager](./docs/added-customer.png) 
 
